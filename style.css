@@ -1,0 +1,1112 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.bod { 
+    background-image: url(imagenes/fondonew.jpg);
+    max-width: 100%;
+}
+
+header {
+    
+    position: relative;
+}
+ 
+.folk {
+text-align: left;
+padding: 20px;
+color: white;
+text-shadow: 2px 3px 15px white;
+}
+
+.closet {
+text-align: left;
+padding: 55px;
+color: white;
+position: relative;
+bottom: 85px;
+right: 11px;
+text-shadow: 2px 3px 15px;
+
+}
+
+
+.sub {
+text-align: center;
+padding: 7%;
+color: white;
+position: relative;
+top: 14px;
+text-shadow: 2px 3px 15px;
+}
+
+
+
+nav ul {
+width: 100%;
+list-style-type: none;
+text-align: center;
+}
+ nav li {
+display: inline-flex;
+ }
+
+ nav a {
+text-decoration: none;
+color: white;
+padding: 10px;
+width: 150px;
+text-shadow: 2px 3px 15px;
+ }
+
+ nav li:hover {
+background-color: black;
+ }
+
+ .fondotitu {
+    background-image: url(imagenes/fondo\ de\ titulo\ .jpg);
+    opacity: 70%;
+border-bottom-left-radius: 80px;
+ border-bottom-right-radius:80px ;
+
+}
+
+.subh2- {
+margin-bottom: -4%;
+margin-right: 1%;
+
+}
+
+
+
+.subh2 {
+color: white;
+text-align: center;
+padding: 50px;
+text-shadow: 2px 3px 15px white;
+margin-top: -1%;
+margin-left: 10%;
+}
+
+.section {
+    display: flex;
+    padding: 10px;
+    width: 90%;
+    margin: 15px auto;
+    border-radius: 20px;
+    margin-left: 2%;
+}
+.section img {
+    width: 30%;
+    height: auto;
+    border-radius: 10%;
+}
+.section p {
+color: white;
+margin-left: 30px;
+text-align: justify;
+text-shadow: 2px 3px 15px white;
+}
+
+.section hr {
+    margin-top: 4%;
+    margin-left: 3%;
+}
+
+
+
+.cdmx {
+    color: white;
+    display: flex;
+    margin-left: 35%;
+}
+.cdmx h1 {
+margin-right: 2%;
+margin-left: 2%;
+}
+.estados {
+    color: green;
+    text-shadow: 2px 3px 15px green;
+}
+.de {
+    color: white;
+    text-shadow: 2px 3px 15px white;
+}
+.mexico {
+    color: red;
+    text-shadow: 2px 3px 15px red;
+}
+
+.estadosv li a {
+  color: green;
+  text-shadow: 2px 3px 15px green;
+  
+}
+.estadosb li a {
+    color: white;
+    text-shadow: 2px 3px 15px white;
+}
+.estadosr li a {
+    color: red;
+    text-shadow: 2px 3px 15px red
+}
+.section1 {
+    display: flex;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-top: 2%;
+    
+}
+.section1 ol {
+    list-style-type: none;
+    margin-right: 7%;
+    margin-left: 7%;
+}
+
+.section2 {
+display: flex;
+}
+
+.section2 img {
+    width: 25%;
+    height: auto;
+    margin-left: 2%;
+    border-radius: 10%;
+}
+
+.section2 p {
+color: white;
+margin-left: 3%;
+text-align: justify;
+text-shadow: 2px 3px 15px white;
+margin-right: 3%;
+margin-top: 5%;
+}
+
+.section3 {
+    display: flex;
+    margin-top: 3%;
+    }
+    
+.section3 img {
+        width: 25%;
+        height: auto;
+        margin-left: 2%;
+        border-radius: 10%;
+    }
+    
+.section3 p {
+    color: white;
+    margin-left: 3%;
+    text-align: justify;
+    text-shadow: 2px 3px 15px white;
+    margin-right: 3%;
+    margin-top: 6%;
+    }
+
+    .section4 {
+        display: flex;
+        margin-top: 3%;
+        }
+        
+    .section4 img {
+            width: 25%;
+            height: auto;
+            margin-left: 2%;
+            border-radius: 10%;
+        }
+        
+    .section4 p {
+        color: white;
+        margin-left: 3%;
+        text-align: justify;
+        text-shadow: 2px 3px 15px white;
+        margin-right: 3%;
+        margin-top: 6%;
+        }
+
+        .section5 {
+            display: flex;
+            margin-top: 3%;
+            }
+            
+        .section5 img {
+                width: 25%;
+                height: auto;
+                margin-left: 2%;
+                border-radius: 10%;
+            }
+            
+        .section5 p {
+            color: white;
+            margin-left: 3%;
+            text-align: justify;
+            text-shadow: 2px 3px 15px white;
+            margin-right: 3%;
+            margin-top: 6%;
+            }
+            .section6 {
+                display: flex;
+                margin-top: 3%;
+                }
+                
+            .section6 img {
+                    width: 25%;
+                    height: auto;
+                    margin-left: 2%;
+                    border-radius: 10%;
+                }
+                
+            .section6 p {
+                color: white;
+                margin-left: 3%;
+                text-align: justify;
+                text-shadow: 2px 3px 15px white;
+                margin-right: 3%;
+                margin-top: 6%;
+                }
+                .section7 {
+                    display: flex;
+                    margin-top: 3%;
+                    }
+                    
+                .section7 img {
+                        width: 25%;
+                        height: auto;
+                        margin-left: 2%;
+                        border-radius: 10%;
+                    }
+                    
+                .section7 p {
+                    color: white;
+                    margin-left: 3%;
+                    text-align: justify;
+                    text-shadow: 2px 3px 15px white;
+                    margin-right: 3%;
+                    margin-top: 6%;
+                    }
+                    .section8 {
+                        display: flex;
+                        margin-top: 3%;
+                        }
+                        
+                    .section8 img {
+                            width: 25%;
+                            height: auto;
+                            margin-left: 2%;
+                            border-radius: 10%;
+                        }
+                        
+                    .section8 p {
+                        color: white;
+                        margin-left: 3%;
+                        text-align: justify;
+                        text-shadow: 2px 3px 15px white;
+                        margin-right: 3%;
+                        margin-top: 6%;
+                        }
+                        .section9 {
+                            display: flex;
+                            margin-top: 3%;
+                            }
+                            
+                        .section9 img {
+                                width: 25%;
+                                height: auto;
+                                margin-left: 2%;
+                                border-radius: 10%;
+                            }
+                            
+                        .section9 p {
+                            color: white;
+                            margin-left: 3%;
+                            text-align: justify;
+                            text-shadow: 2px 3px 15px white;
+                            margin-right: 3%;
+                            margin-top: 6%;
+                            }
+                            .section10 {
+                                display: flex;
+                                margin-top: 3%;
+                                }
+                                
+                            .section10 img {
+                                    width: 25%;
+                                    height: auto;
+                                    margin-left: 2%;
+                                    border-radius: 10%;
+                                }
+                                
+                            .section10 p {
+                                color: white;
+                                margin-left: 3%;
+                                text-align: justify;
+                                text-shadow: 2px 3px 15px white;
+                                margin-right: 3%;
+                                margin-top: 6%;
+                                }
+                                .section11 {
+                                    display: flex;
+                                    margin-top: 3%;
+                                    }
+                                    
+                                .section11 img {
+                                        width: 25%;
+                                        height: auto;
+                                        margin-left: 2%;
+                                        border-radius: 10%;
+                                    }
+                                    
+                                .section11 p {
+                                    color: white;
+                                    margin-left: 3%;
+                                    text-align: justify;
+                                    text-shadow: 2px 3px 15px white;
+                                    margin-right: 3%;
+                                    margin-top: 6%;
+                                    }
+                                    .section12 {
+                                        display: flex;
+                                        margin-top: 3%;
+                                        }
+                                        
+                                    .section12 img {
+                                            width: 25%;
+                                            height: auto;
+                                            margin-left: 2%;
+                                            border-radius: 10%;
+                                        }
+                                        
+                                    .section12 p {
+                                        color: white;
+                                        margin-left: 3%;
+                                        text-align: justify;
+                                        text-shadow: 2px 3px 15px white;
+                                        margin-right: 3%;
+                                        margin-top: 6%;
+                                        }
+                                        .section13 {
+                                            display: flex;
+                                            margin-top: 3%;
+                                            }
+                                            
+                                        .section13 img {
+                                                width: 25%;
+                                                height: auto;
+                                                margin-left: 2%;
+                                                border-radius: 10%;
+                                            }
+                                            
+                                        .section13 p {
+                                            color: white;
+                                            margin-left: 3%;
+                                            text-align: justify;
+                                            text-shadow: 2px 3px 15px white;
+                                            margin-right: 3%;
+                                            margin-top: 6%;
+                                            }
+                                            .section14 {
+                                                display: flex;
+                                                margin-top: 3%;
+                                                }
+                                                
+                                            .section14 img {
+                                                    width: 25%;
+                                                    height: auto;
+                                                    margin-left: 2%;
+                                                    border-radius: 10%;
+                                                }
+                                                
+                                            .section14 p {
+                                                color: white;
+                                                margin-left: 3%;
+                                                text-align: justify;
+                                                text-shadow: 2px 3px 15px white;
+                                                margin-right: 3%;
+                                                margin-top: 4%;
+                                                }
+                                                .section15 {
+                                                    display: flex;
+                                                    margin-top: 3%;
+                                                    }
+                                                    
+                                                .section15 img {
+                                                        width: 25%;
+                                                        height: auto;
+                                                        margin-left: 2%;
+                                                        border-radius: 10%;
+                                                    }
+                                                    
+                                                .section15 p {
+                                                    color: white;
+                                                    margin-left: 3%;
+                                                    text-align: justify;
+                                                    text-shadow: 2px 3px 15px white;
+                                                    margin-right: 3%;
+                                                    margin-top: 6%;
+                                                    }                                     
+
+.section16 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 3px 15px white;
+}
+
+
+.fondotitu2 {
+    background-image: url(imagenes/fondo\ de\ titulo\ .jpg);
+    opacity: 70%;
+border-top-left-radius: 80px;
+ border-top-right-radius:80px ;
+ margin: 0%;
+}
+
+.fondofinal {
+    background-image: url(imagenes/fondo\ de\ titulo\ .jpg);
+    opacity: 70%;
+}
+
+.social-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .whatsapp {
+    background-color: #25d366;
+  }
+  .facebook {
+    background-color: #3b5998;
+  }
+  .instagram {
+    background-color: #e4405f;
+  }
+  .redes {
+    margin: 0;
+    margin-left: 5%;
+    margin-top: -1%;
+  }
+  .formulario {
+    margin: 1%;
+    margin-left: 22%;
+    opacity: 50%;
+  }
+                
+  .section17 {
+    display: flex;
+    margin-top: 3%;
+    }
+    
+.section17 img {
+        width: 25%;
+        height: auto;
+        margin-left: 2%;
+        border-radius: 10%;
+    }
+    
+.section17 p {
+    color: white;
+    margin-left: 3%;
+    text-align: justify;
+    text-shadow: 2px 3px 15px white;
+    margin-right: 3%;
+    margin-top: 6%;
+    }                
+
+    .tabla{
+color: #fff;
+text-align: center;
+margin-left: 29%;
+margin-top: 2%;
+
+    }
+.nosotros {
+    background-color: #908E8E;
+    opacity: 60%;
+    border-top-left-radius: 80px;
+ border-top-right-radius:80px ;
+}
+.nosotros h3  {
+    color: white;
+    margin-left: 8%;
+}
+.nosotros p {
+    color: white;
+    margin-left: 7%;
+}
+.boton {
+    margin-left: 40%; 
+}
+.boton a {
+    color: white;
+    
+}
+.contacto {
+    margin: 0;
+    margin-left: 55%;
+    margin-top: -5%;
+    
+}
+.table td {
+    color: white;
+    
+}
+
+.logo {
+    margin-left: 88%;
+    margin-top: -9%;
+    margin-right: 4%;
+}
+.logo img {
+    height: 200%;
+    width: 200%;
+    margin-left: -45%;
+}
+
+.sectiondelfin {
+    display: flex;
+    }
+    
+    .sectiondelfin img {
+        width: 25%;
+        height: 80%;
+        margin-left: 2%;
+        border-radius: 10%;
+        margin-top: 17%;
+    }
+    
+    .sectiondelfin p {
+    color: white;
+    margin-left: 3%;
+    text-align: justify;
+    text-shadow: 2px 3px 15px white;
+    margin-right: 3%;
+    margin-top: 5%;
+    }
+
+    .tabla1 {
+        color: #fff;
+        text-align: center;
+        margin-left: 1%;
+        margin-top: 2%; 
+    margin: 5%;
+    }
+        
+
+        .tabla1 td {
+            color: white;
+            
+        }
+
+h1 {
+color: white;
+text-shadow: 2px 3px 15px white;
+
+}
+
+.bodymenu {
+background-image:url(imagenes/fondonew.jpg);
+margin: 0%;
+}
+.bodymenu h2 {
+    color: white;
+    margin: 0%;
+}
+
+.bodymenu img {
+    margin: 0%;
+}
+
+.contenidomenu {
+    background-image:url(imagenes/fondonew.jpg);
+    }
+.contenidomenu p {
+    color: white;
+}
+.contenidomenu h2 {
+    color: white;
+}
+.menufra {
+display: inline-block;
+    margin: 0%;
+    border-radius: 10px;
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+.section18 h2 {
+color: yellow;
+margin-left: 30%;
+text-shadow: 2px 3px 15px yellow;
+}
+.section18 a {
+    margin-left: 30%;
+    text-shadow: 2px 3px 15px yellow;
+}
+            
+.redes3 {
+    margin: 0;
+    margin-left: 5%;
+    margin-top: -1%;
+  }
+  .redes3 h3 {
+    color: yellow;
+
+  }
+
+  .section h2 {
+    color: yellow;
+  }
+        
+        
+    
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.menu{position: absolute;}
+    
+@media (max-width:600px) {
+body{ 
+    font-size: 15px;
+}
+.section {
+display: flex;
+flex-direction: column;
+margin: 5;
+}
+.section img {
+width: 100%;
+height: auto;
+margin: 0;
+}
+.section p {
+margin: 3%;
+}
+
+.cdmx {
+    display: flex;
+    margin: 5%;
+    }
+
+.section1 {
+    display: flex;
+    margin: 0;
+}
+.section1 ol {
+    margin: 1%;
+}
+ 
+.section2 {
+display: flex;
+margin: 0;
+flex-direction: column;
+}
+.section2 img {
+width: 80%;
+height: auto;
+margin: 7%;
+}
+.section2 p {
+    margin-top: 5%;
+}
+.section3 {
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    }
+    .section3 img {
+    width: 80%;
+    height: auto;
+    margin: 7%;
+    }
+    .section3 p {
+        margin-top: -4%;
+    }
+    .section4 {
+        display: flex;
+        margin: 0;
+        flex-direction: column;
+        }
+        .section4 img {
+        width: 80%;
+        height: auto;
+        margin: 7%;
+        }
+        .section4 p {
+            margin-top: -4%;
+        }
+
+        .section5 {
+            display: flex;
+            margin: 0;
+            flex-direction: column;
+            }
+            .section5 img {
+            width: 80%;
+            height: auto;
+            margin: 7%;
+            }
+            .section5 p {
+                margin-top: -4%;
+            }
+         
+            .section6 {
+                display: flex;
+                margin: 0;
+                flex-direction: column;
+                }
+                .section6 img {
+                width: 80%;
+                height: auto;
+                margin: 7%;
+                }
+                .section6 p {
+                    margin-top: -4%;
+                }
+
+                .section7 {
+                    display: flex;
+                    margin: 0;
+                    flex-direction: column;
+                    }
+                    .section7 img {
+                    width: 80%;
+                    height: auto;
+                    margin: 7%;
+                    }
+                    .section7 p {
+                        margin-top: -4%;
+                    }
+
+                    .section8 {
+                        display: flex;
+                        margin: 0;
+                        flex-direction: column;
+                        }
+                        .section8 img {
+                        width: 80%;
+                        height: auto;
+                        margin: 7%;
+                        }
+                        .section8 p {
+                            margin-top: -4%;
+                        }
+
+                        .section9 {
+                            display: flex;
+                            margin: 0;
+                            flex-direction: column;
+                            }
+                            .section9 img {
+                            width: 80%;
+                            height: auto;
+                            margin: 7%;
+                            }
+                            .section9 p {
+                                margin-top: -4%;
+                            }
+                            .section10 {
+                                display: flex;
+                                margin: 0;
+                                flex-direction: column;
+                                }
+                                .section10 img {
+                                width: 80%;
+                                height: auto;
+                                margin: 7%;
+                                }
+                                .section10 p {
+                                    margin-top: -4%;
+                                }
+                                .section11 {
+                                    display: flex;
+                                    margin: 0;
+                                    flex-direction: column;
+                                    }
+                                    .section11 img {
+                                    width: 80%;
+                                    height: auto;
+                                    margin: 7%;
+                                    }
+                                    .section11 p {
+                                        margin-top: -4%;
+                                    }
+                                    .section12 {
+                                        display: flex;
+                                        margin: 0;
+                                        flex-direction: column;
+                                        }
+                                        .section12 img {
+                                        width: 80%;
+                                        height: auto;
+                                        margin: 7%;
+                                        }
+                                        .section12 p {
+                                            margin-top: -4%;
+                                        }
+                                        .section13 {
+                                            display: flex;
+                                            margin: 0;
+                                            flex-direction: column;
+                                            }
+                                            .section13 img {
+                                            width: 80%;
+                                            height: auto;
+                                            margin: 7%;
+                                            }
+                                            .section13 p {
+                                                margin-top: -4%;
+                                            }
+                                            .section14 {
+                                                display: flex;
+                                                margin: 0;
+                                                flex-direction: column;
+                                                }
+                                                .section14 img {
+                                                width: 80%;
+                                                height: auto;
+                                                margin: 7%;
+                                                }
+                                                .section14 p {
+                                                    margin-top: -4%;
+                                                }
+                                                .section15 {
+                                                    display: flex;
+                                                    margin: 0;
+                                                    flex-direction: column;
+                                                    }
+                                                    .section15 img {
+                                                    width: 80%;
+                                                    height: auto;
+                                                    margin: 7%;
+                                                    }
+                                                    .section15 p {
+                                                        margin-top: -4%;
+                                                    }
+.section16 {
+    display: flex;
+    margin: 0;
+    margin-left: 4%;
+}
+.subh3-{
+display: flex;
+margin: 0%;
+margin-left: -14% ;
+}
+.subh2-{
+    display: flex;
+    margin: 0%;
+    margin-left: 2% ;
+    }
+
+    .nosotros {
+        display: flex;
+        margin-left: -10%;
+        margin: 0%;
+    }
+    .boton{
+        margin-left: 10%;
+        margin-top: 13%;
+    }
+    .contacto{
+        display: flex;
+        margin-left: -3.5%;
+        margin-top: 15%;
+        flex-direction: column;
+    }
+
+    
+    .section17 {
+        display: flex;
+        margin: 0;
+        flex-direction: column;
+        }
+        .section17 img {
+        width: 80%;
+        height: auto;
+        margin: 7%;
+        }
+        .section17 p {
+            margin-top: 5%;
+        }
+        .tabla {
+            margin-left: 0%;
+            margin-top: 5%;
+            margin: 4%;
+        }
+
+        .tabla iframe {
+            width: 100%;
+            height: 50%;
+        }
+
+        .formulario {
+            margin-left: 2%;
+            margin: 4%;
+        }
+        
+        .logo {
+display: flex;
+margin: 0;
+margin-top: 54%;
+width: 28%;
+height: 28%;
+
+        }
+
+        .logo img {
+        flex-direction: column;
+        margin-left: -550%;
+        margin-top: 25%;
+        }
+
+
+        .redes {
+            margin-top: 5%;
+        }
+
+        .sectiondelfin {
+            display: flex;
+            margin: 0;
+            flex-direction: column;
+            }
+            .sectiondelfin img {
+            width: 80%;
+            height: auto;
+            margin: 7%;
+            }
+            .sectiondelfin p {
+                margin-top: 5%;
+            }
+
+            .tabla1 {
+                margin-left: 0%;
+                margin-top: 5%;
+                margin: 4%;
+            }
+    
+            .tabla1 iframe {
+                width: 100%;
+                height: 50%;
+            }
+
+          
+        
+          .sub {
+            text-align: center;
+            padding: 19%;
+            color: white;
+            position: relative;
+            text-shadow: 2px 3px 15px;
+            }
+            
+           .section18 {
+            margin-left: -27%;
+           }
+
+
+
+
+
+
+
+ 
+
+@media (min-width:601px) and (max-width:768px) {
+    body{
+        font-size: 10px;
+    }
+}
+
+@media (min-width:1024px) {
+    body{
+        font-size: 14px;
+    }
+}
+
+@media (max-width:600px) {
+body{
+
+}
+   .img {
+max-width: 100%;
+height: auto;
+   }
+
+    }
+ @media (min-width:601px) and (max-width:1024px){
+.img {
+    max-width: 80%;
+    height: auto;
+}
+ }
+
+ @media (min-width:1025px) {
+    .img {
+        max-width: 60%;
+        height: auto;
+    }
+     }
+
+
+
+
+
+
+
+
+
+
+
+
